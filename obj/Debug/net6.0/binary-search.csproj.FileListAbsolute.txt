@@ -1,0 +1,15 @@
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.csproj.AssemblyReference.cache
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.AssemblyInfoInputs.cache
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.AssemblyInfo.cs
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.csproj.CoreCompileInputs.cache
+/Users/willian/Projetos/binary-search/bin/Debug/net6.0/binary-search
+/Users/willian/Projetos/binary-search/bin/Debug/net6.0/binary-search.deps.json
+/Users/willian/Projetos/binary-search/bin/Debug/net6.0/binary-search.runtimeconfig.json
+/Users/willian/Projetos/binary-search/bin/Debug/net6.0/binary-search.dll
+/Users/willian/Projetos/binary-search/bin/Debug/net6.0/binary-search.pdb
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.dll
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/refint/binary-search.dll
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.pdb
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/binary-search.genruntimeconfig.cache
+/Users/willian/Projetos/binary-search/obj/Debug/net6.0/ref/binary-search.dll
